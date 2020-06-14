@@ -9,7 +9,11 @@
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
-
+        <dependency>
+            <groupId>javax.net.websocket</groupId>
+            <artifactId>javax.net.websocket-api</artifactId>
+            <version>1.0-b08</version>
+        </dependency>
     </dependencies>
 
 
