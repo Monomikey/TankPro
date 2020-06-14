@@ -16,5 +16,6 @@ public class T {
                 System.exit(0);
             }
         });
+        System.out.println("hello world");
     }
 }
